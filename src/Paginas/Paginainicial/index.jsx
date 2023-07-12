@@ -1,5 +1,7 @@
+import Cabecalho from "../../Componentes/Cabecalho";
+
 export default function Paginainicial() {
     return (
-        <h1>Página Inicial</h1>
+        <Cabecalho />
     )
 }
