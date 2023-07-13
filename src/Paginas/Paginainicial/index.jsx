@@ -11,10 +11,7 @@ export default function Paginainicial() {
             <main>
                 <section className={styles.principal}>
                     <Menu />
-                    <div className={styles.principal__imagem}>
-                        <h1>A galeria mais completa do espaço</h1>
-                        <Banner />
-                    </div>
+                    <Banner />
                 </section>
             </main>
         </>
