@@ -16,7 +16,7 @@ export default function Paginainicial() {
                     <Banner />
                 </section>
             </main>
-            <div>
+            <div className={styles.galeria}>
                 <Galeria />
             </div>
             <Rodape />
