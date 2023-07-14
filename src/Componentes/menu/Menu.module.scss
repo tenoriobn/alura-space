@@ -22,7 +22,7 @@
             a {
                 font-weight: 700;
                 color: $roxo;
-                font-family: "GandhiSansRegular";
+                font-family: $fonte-normal;
             }
         }
     }
@@ -38,6 +38,6 @@
         text-decoration: none;
         font-size: 1.125rem;
         color: $cinza-claro;
-        font-family: "GandhiSansRegular"
+        font-family: $fonte-normal;
     }
 }
